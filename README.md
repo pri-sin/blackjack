@@ -16,4 +16,7 @@ Responsive design for desktop and mobile
 # Tech Stack:
 HTML • CSS • JavaScript
 
+# Live Demo
+_https://blackjack-game-priya.netlify.app/_
+
 
